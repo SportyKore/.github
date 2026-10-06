@@ -8,7 +8,6 @@
 
 </div>
 
----
 
 ## What we're building
 
